@@ -9,7 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@plasmicapp/host": "^0.0.14",
     "@plasmicapp/loader": "^0.0.56",
+    "@plasmicapp/react-web": "^0.2.61",
     "next": "11.0.0",
     "react": "17.0.2",
     "react-dom": "17.0.2"
